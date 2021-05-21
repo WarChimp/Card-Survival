@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 274e9ff14b836a546b19ed890dd50177, type: 3}
+  m_Name: ActionPoint
+  m_EditorClassIdentifier: 
+  upgradeName: Action Points
+  description: Upgrade your daily amount of actions
+  foodCost: 10
+  woodCost: 20
+  icon: {fileID: 5363572251144207150, guid: e746423dafa02f64c80e255048ffc12b, type: 3}
